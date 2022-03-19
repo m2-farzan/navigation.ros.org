@@ -13,6 +13,7 @@ Navigation2 Tutorials
    docs/navigation2_on_real_turtlebot3.rst
    docs/navigation2_with_slam.rst
    docs/navigation2_with_stvl.rst
+   docs/navigation2_with_openvslam.rst
    docs/navigation2_dynamic_point_following.rst
    docs/navigation2_with_keepout_filter.rst
    docs/navigation2_with_speed_filter.rst
